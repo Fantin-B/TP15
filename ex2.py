@@ -33,3 +33,4 @@ class ConfigurationDialog(QDialog):
         self.layout.addWidget(self.labelTextField3)
 
         self.setLayout(self.layout)
+print("u")
