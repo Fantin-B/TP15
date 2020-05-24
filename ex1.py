@@ -51,5 +51,3 @@ if __name__ == "__main__" :
     win.show()
     win2.show()
     app.exec_()
-
-print("u")
